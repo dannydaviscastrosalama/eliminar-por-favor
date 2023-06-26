@@ -8,4 +8,9 @@ def maquina():
         return "papel"
     if jugada ==2:
         return "tijera"
-    
+    if jugada ==3:
+        return "papel 3"
+    if jugada ==4:
+        return "tijera 4"
+    if jugada ==5:
+        return "tijera afgit"
